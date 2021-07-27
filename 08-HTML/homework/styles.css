@@ -1,0 +1,42 @@
+.divClass {
+    display: flex;
+    flex-flow:column;
+    justify-content: center;
+    list-style-type: none;
+    text-align: center;
+    
+}
+h1 {
+    color: blue;
+}
+img {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    width: 400px;
+    
+}
+#thirdDiv{
+    display: flex;
+    flex-flow: wrap;
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    margin-left: 450px;
+    padding: 50px;
+    border: 10px dotted yellow;
+    
+}
+#spanId{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    font-size: 18px;
+    margin: 50px;
+}
+html{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwnUohuryyp8y33vooLpaGDWH3pIZgsHQig&usqp=CAU);
+}
